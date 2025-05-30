@@ -1,0 +1,5 @@
+Python is a powerful programming language.
+Python is used for web development, data science, automation, and more.
+Many developers love Python for its simplicity and readability.
+This file is just a sample text file for testing Python programs.
+Python is amazing!
